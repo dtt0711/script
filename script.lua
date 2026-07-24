@@ -11,7 +11,7 @@ local foods = {
     "Pear", "Pineapple", "DragonFruit", "GoldMango", "BloodstoneCycad",
     "ColossalPinecone", "VoltGinkgo", "DeepseaPearlFruit", "CandyCorn", "Durian",
     "Pumpkin", "FrankenKiwi", "Acorn", "Cranberry", "Gingerbread",
-    "Candycane", "Cherry", "YogurtIceCream", "MintJelly", "Macaron"
+    "Candycane", "Cherry", "YogurtIceCream", "MintJelly", "Macaron", "Popsicle"
 }
 
 -- Trạng thái chọn món và trạng thái Auto tổng
